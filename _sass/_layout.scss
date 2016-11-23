@@ -108,8 +108,6 @@ aside {
 footer {
 	text-align: center;
 	padding: 40px;
-	display: flex;
-  	justify-content: flex-end;
 }
 
 footer ul {
@@ -119,4 +117,6 @@ footer ul {
 footer li img {
   width: 32px;
   height: 32px;
+  display: flex;
+  justify-content: flex-end;
 }
